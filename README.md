@@ -1,0 +1,2 @@
+# Ames_Housing_Data_Set_Price_Analysis_and_Prediction
+The Ames housing price dataset on Kaggle is a great one for this exercise. It’s one of the most popular datasets on Kaggle. Firstly a little background. Ames is a small city in the state of Iowa in the United States. It’s home to Iowa State University, which is the largest university in the state. The Ames housing dataset examines features of houses sold in Ames during the 2006–10 timeframe. The goal is to use the training data to predict the sale prices of the houses in the testing data.
